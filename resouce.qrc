@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image_file/Group 5.png</file>
+    <file>image_file/Group 7.png</file>
+    <file>image_file/Group 9.png</file>
+    <file>image_file/shot_but.png</file>
+    <file>image_file/start_botton.png</file>
+    <file>image_file/help_botton.png</file>
+    <file>image_file/exit_app.png</file>
+    <file>image_file/Home screen1.png</file>
+    <file>image_file/s_team_library.qtbridge</file>
+    <file>image_file/Group 22.png</file>
+    <file>image_file/Group 13.png</file>
+    <file>image_file/Group 15.png</file>
+    <file>image_file/Group 27.png</file>
+    <file>image_file/hellp_talk.png</file>
+    <file>image_file/Group 20.png</file>
+    <file>image_file/Group 21.png</file>
+    <file>image_file/Group 23.png</file>
+    <file>image_file/Group 24.png</file>
+    <file>image_file/Group 25.png</file>
+    <file>image_file/Group 26.png</file>
+  </qresource>
+</RCC>
